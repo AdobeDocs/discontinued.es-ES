@@ -1,8 +1,8 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 # Contribución
@@ -19,7 +19,7 @@ se espera que mantenga este código. Comunique cualquier comportamiento inacepta
 
 ## Documentación de la Guía del colaborador
 
-Consulte la [Guía del colaborador](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Consulte la [Guía del colaborador](https://docs.adobe.com/content/help/es/contributor/contributor-guide/introduction.html).
 
 ## ¿Alguna pregunta?
 
@@ -34,7 +34,7 @@ tiene que enviar un CLA de Adobe una vez, por lo que si lo ha enviado anteriorme
 
 ## Reseñas de código
 
-Todos los envíos deben presentarse en forma de solicitudes de extracción y los miembros del proyecto deben examinarlos. Lea la [documentación de solicitud de extracción de GitHub](https://help.github.com/es/articles/about-pull-requests/) para obtener más información sobre el envío de solicitudes de extracción.
+Todos los envíos deben presentarse en forma de solicitudes de extracción y los miembros del proyecto deben examinarlos. Lea la [documentación de solicitud de extracción de GitHub](https://help.github.com/articles/about-pull-requests/) para obtener más información sobre el envío de solicitudes de extracción.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
