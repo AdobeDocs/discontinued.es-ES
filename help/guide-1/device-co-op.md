@@ -4,9 +4,9 @@ title: “Preguntas frecuentes sobre el fin de vida útil de [!DNL Device Co-op]
 description: Más información sobre los planes de fin de vida útil para Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1138'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -102,7 +102,7 @@ La adopción de otras funciones no es obligatoria. Solo se recomienda si desea s
 
 Esto dependerá de la funcionalidad. Por ejemplo, si un cliente de Analytics Ultimate utiliza el Análisis entre dispositivos con [!DNL Device Co-op] y necesita migrar a Gráfico de dispositivos privados en tiempo real o Vinculación basada en campos, la adopción tardará algún tiempo.
 
-## ¿Qué pasa con el [!UICONTROL People] métrica?
+## ¿Qué pasa con la métrica [!UICONTROL Personas]?
 
-Con la obsolescencia del [!DNL Device Co-op], el [!UICONTROL People] La métrica de ya no es relevante. En un futuro próximo (fecha por determinar), se eliminará el [!UICONTROL People] métrica. En ese momento, redireccionaremos sus datos al [!UICONTROL Visitante único] métrica en Analytics para evitar que se rompan proyectos, segmentos y métricas calculadas.
+Con el desuso de [!DNL Device Co-op], la métrica [!UICONTROL Personas] ya no es relevante. En un futuro próximo (fecha por determinar), se eliminará la métrica [!UICONTROL Personas]. En ese momento, redireccionaremos sus datos a la métrica [!UICONTROL Visitante único] en Analytics para evitar que se interrumpan proyectos, segmentos y métricas calculadas.
 
