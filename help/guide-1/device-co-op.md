@@ -4,9 +4,9 @@ title: “Preguntas frecuentes sobre el fin de vida útil de [!DNL Device Co-op]
 description: Más información sobre los planes de fin de vida útil para Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1134'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -104,5 +104,5 @@ Esto dependerá de la funcionalidad. Por ejemplo, si un cliente de Analytics Ult
 
 ## ¿Qué pasa con la métrica [!UICONTROL Personas]?
 
-Con el desuso de [!DNL Device Co-op], la métrica [!UICONTROL Personas] ya no es relevante. El 8 de mayo de 2023, se eliminará el [!UICONTROL People] métrica. En ese momento, redireccionaremos sus datos a la métrica [!UICONTROL Visitante único] en Analytics para evitar que se interrumpan proyectos, segmentos y métricas calculadas.
+Con el desuso de [!DNL Device Co-op], la métrica [!UICONTROL Personas] ya no es relevante. El 8 de mayo de 2023, se eliminará la métrica [!UICONTROL Personas]. En ese momento, redireccionaremos sus datos a la métrica [!UICONTROL Visitante único] en Analytics para evitar que se interrumpan proyectos, segmentos y métricas calculadas.
 
