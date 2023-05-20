@@ -1,10 +1,11 @@
 ---
-title: “Fin de servicio de [!DNL Adobe Livefyre]”
+title: '''[!DNL Adobe Livefyre] "Fin de servicio"'
 description: Recordatorio de fin de servicio de Livefyre para Livefyre y Livefyre Studio.
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
+exl-id: 696f6363-7b17-4a05-bde7-e43141ea84de
+source-git-commit: 05a624f7ba8863b50e86dac1ee5d92782be31737
+workflow-type: tm+mt
 source-wordcount: '228'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
