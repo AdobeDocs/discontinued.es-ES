@@ -5,7 +5,7 @@ user-guide-description: Lista de productos descontinuados para [!DNL Adobe Exper
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 78%
+ht-degree: 100%
 
 ---
 
