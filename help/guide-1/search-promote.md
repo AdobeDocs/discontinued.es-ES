@@ -3,9 +3,9 @@ title: “Anuncio de fin de servicio de [!DNL Adobe Search&Promote]”
 description: Obtenga más información sobre el Anuncio de fin del servicio de  [!DNL Adobe Search&Promote] .
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 67%
 
 ## Preguntas frecuentes sobre el fin de servicio para [!DNL Search&Promote]
 
-### **_En qué fecha lo hizo [!DNL Search&Promote] ¿dejar de operar?_**
+### **_¿En qué fecha ha dejado de operar [!DNL Search&Promote]?_**
 
-Fin de servicio para [!DNL Adobe Search&Promote] se ha programado para **1 de septiembre de 2022**. En esa fecha, la variable [!DNL Search&Promote] ya no se podía acceder a la interfaz de usuario administrativa y las solicitudes a [!DNL Search&Promote] Las API ya no entregan resultados.
+El fin de servicio para [!DNL Adobe Search&Promote] estaba programado para el **1 de septiembre de 2022**. En esa fecha, la interfaz de usuario administrativa de [!DNL Search&Promote] dejó de ser accesible y las solicitudes a las API de [!DNL Search&Promote] ya no ofrecían resultados.
 
 ### **_¿Qué sucede si se realiza una búsqueda u otra solicitud de API en [!DNL Search&Promote]?_**
 
-Búsqueda y otras solicitudes de API realizadas a [!DNL Search&Promote] ya no devuelve resultados. Las solicitudes pueden resultar en el error “Host no encontrado”, un redireccionamiento HTTP 3xx o un error HTTP como 404, 408 u otro código de error HTTP.
+La búsqueda y otras solicitudes de API realizadas en [!DNL Search&Promote] ya no devuelven resultados. Las solicitudes pueden resultar en el error “Host no encontrado”, un redireccionamiento HTTP 3xx o un error HTTP como 404, 408 u otro código de error HTTP.
 
 ### **_¿Tiene Adobe opciones alternativas para la búsqueda de sitios y la búsqueda comercial?_**
 
-Sí. Para la búsqueda de productos y comercial, [Live Search desde [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) es la aplicación de búsqueda de Adobe en adelante.
+Sí. Para la búsqueda de productos y comercial, [Live Search desde [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=es) es la aplicación de búsqueda de Adobe en adelante.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
