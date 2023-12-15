@@ -3,7 +3,7 @@ title: Descripción general de productos de  [!DNL Adobe Experience Cloud]  desc
 description: Descripción general de los productos descontinuados, retirados o al final de su vida útil para  [!DNL Adobe Experience Cloud]  y  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: 55fd2cc6ba04830e11d87730b5a8921f5f0fb6dd
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '112'
 ht-degree: 100%
 
