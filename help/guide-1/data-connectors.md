@@ -3,9 +3,9 @@ description: Obtenga información acerca de la interrupción de las integracione
 title: Fin de la vida útil de las integraciones de Analytics Data Connectors
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 79%
 
 Adobe Analytics tiene como objetivo proporcionar los mejores análisis web y de marketing para satisfacer las necesidades de los clientes. A medida que evolucionan la tecnología y las necesidades empresariales, Adobe se esfuerza por ofrecer y cumplir continuamente los estándares más elevados. Las API que alimentan las integraciones de Data Connectors ya no cumplen con esos estándares y no son sostenibles en la moderna infraestructura tecnológica de Adobe.
 
-Tenga en cuenta que este anuncio de fin de vida útil no se aplica a los conectores de origen de Adobe, que son una función de recopilación de datos en Adobe Experience Platform. Los conectores de origen de Adobe, a veces denominados Adobe Data Connectors, son totalmente compatibles con el Adobe.
+Tenga en cuenta que este anuncio de fin de vida útil no se aplica a los conectores de origen de Adobe, que son una función de recopilación de datos de Adobe Experience Platform. Los conectores de origen de Adobe, a veces denominados Adobe Data Connectors, son totalmente compatibles con Adobe.
 
 ## ¿Por qué Adobe ha retirado esta función?
 
