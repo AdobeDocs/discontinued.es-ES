@@ -4,7 +4,7 @@ description: “Recursos de la guía del usuario de [!DNL Adobe Social]”
 exl-id: 48527ae3-bc6a-4f30-9309-701bb2be0650
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
