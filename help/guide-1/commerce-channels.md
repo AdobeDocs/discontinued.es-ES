@@ -2,7 +2,7 @@
 title: Extensión del Administrador de canales para Adobe Commerce
 description: Obtenga información sobre cuándo la extensión del Administrador de canales para Adobe Commerce llegó al final de su vida útil.
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
