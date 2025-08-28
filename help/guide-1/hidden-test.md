@@ -26,4 +26,4 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 
 Procesado:
 
->[!SLIDE](analyze-project)
+>[ !SLIDE] (analyze-project)
