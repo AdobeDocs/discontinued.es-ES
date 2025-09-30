@@ -4,9 +4,9 @@ description: Esta es una prueba oculta
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: df41bac7aafeba0e090a8a8080c25fec031b3737
+source-git-commit: 5c9e5ae15154f9ed1bdcd398c3e6866eee13c029
 workflow-type: tm+mt
-source-wordcount: '20'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,26 @@ ht-degree: 0%
 # Prueba oculta
 
 Esta es una prueba oculta.
+
+
+## Prueba de texto de desplazamiento
+
+No, no hay texto de desplazamiento
+
+```
+![alt text](assets/maui-flip.jpg)
+```
+
+![texto alternativo](assets/maui-flip.jpg)
+
+
+Sí, sí, pasar el ratón por el texto
+
+```
+![alt text](assets/maui-flip.jpg "Hover text")
+```
+
+![texto alternativo](assets/maui-flip.jpg "Texto de desplazamiento")
 
 ## Diapositiva
 
