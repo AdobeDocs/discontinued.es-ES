@@ -4,9 +4,9 @@ description: Esta es una prueba oculta
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: fdcc74a0636e2de1f3e2fd751a09f8d19f9994b9
+source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Esta es una prueba oculta.  No debería aparecer en la búsqueda.
 
-Bob estaba aquí para la demostración de sprint.
+Bob estaba aquí para la demostración del sprint, y otra vez después de que Lakshay rodó el escenario en la producción...
 
 Ajay estaba aquí.
 
