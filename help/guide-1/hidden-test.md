@@ -6,7 +6,7 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 700d6e5dfa07d4b351af5fbd30635d165affd248
+source-git-commit: 70caa41f852752f2dd5d55b9070bdd2459cecc77
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Esta es una prueba oculta.  No debería aparecer en la búsqueda.
 
 Bob estaba aquí para la demostración del sprint, y otra vez después de que Lakshay rodó el escenario en la producción...
 
-2 de octubre
+6 de octubre
 
 ## Prueba de texto de desplazamiento
 
