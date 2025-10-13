@@ -15,6 +15,6 @@ ht-degree: 0%
 Prueba oculta 1
 Prueba: compruebe que este cambio se aplica en todos los repositorios de lang.
 
-# Título oculto
+&#x200B;# Título oculto
 
 Validación en mayúsculas
