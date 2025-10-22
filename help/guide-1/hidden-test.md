@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 1db1adaee009bf29b847f7d7b7c7e6f8e906cbf2
+source-git-commit: d8456b4db6630d3669d088ac89f8eaf365d42aad
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '74'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Esta es una prueba oculta.  No debería aparecer en la búsqueda.
 
 Bob estaba aquí para la demostración del sprint, y otra vez después de que Lakshay rodó el escenario en la producción...
 
-¡El 22 de octubre Bob y Sarika están aquí de nuevo!
+22 de octubre, Bob y Sarika están aquí una y otra vez!
 
 ## Prueba de texto de desplazamiento {#this-is-a-heading-anchor}
 
