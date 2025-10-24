@@ -2,7 +2,7 @@
 title: Descripción general de productos de  [!DNL Adobe Experience Cloud]  descontinuados
 description: Descripción general de los productos descontinuados, retirados o al final de su vida útil para  [!DNL Adobe Experience Cloud]  y  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: 3019dde6f05912926a1630f486fbe4c358ccf4ce
+source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
@@ -45,7 +45,7 @@ En ocasiones, Adobe interrumpe la venta, el desarrollo o el soporte de un produc
 * *[!DNL Captivate Prime]* ahora es *[!DNL Adobe Learning Manager]*.
 * *[!DNL Bizible]* ahora es *[!DNL Marketo Measure]*.
 
-## Productos descatalogados adicionales
+## Productos descatalogados adicionales {#additional-products}
 
 * *[!DNL Adobe Bloodhound]* se extinguió el 1 de mayo de 2017.
 * *[!DNL AEM Mobile]* se descontinuó el 3 de abril de 2021. Consulte [Preguntas frecuentes sobre el fin de la vida útil de AEM Mobile](https://helpx.adobe.com/es/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html).
