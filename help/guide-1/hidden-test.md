@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: b8cacb7fbfa25083c87079bce67ee9c80c81ae84
+source-git-commit: c5ce9a3708541560e86ccad5b1407788b570fd96
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 2%
+source-wordcount: '103'
+ht-degree: 1%
 
 ---
 
@@ -19,6 +19,8 @@ ht-degree: 2%
 Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que funcione correctamente en el procesamiento de la versión 2.
 
 Bob estaba aquí para la demostración de sprint, y de nuevo después de que Lakshay rodara escenario en producción.
+
+Matt estuvo aquí el 28 de octubre.
 
 22 de octubre, Bob y Sarika están aquí una y otra vez y otra vez!
 
