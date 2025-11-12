@@ -1,13 +1,13 @@
 ---
 title: Satisfacción de pedidos de tienda para Adobe Commerce
 description: Descubra cuándo llegó el cumplimiento de la tienda para las extensiones de Adobe Commerce al final de su vida útil.
-source-git-commit: c772662c6bd4e8a7a28282120114dfde62ba7bc7
+exl-id: 15a36e9c-3480-436b-8315-5fdedcf5b3dd
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 30%
 
 ---
-
 
 # Satisfacción de pedidos de tienda para Adobe Commerce
 

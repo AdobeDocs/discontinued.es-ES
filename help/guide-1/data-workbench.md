@@ -1,11 +1,11 @@
 ---
-title: “Fin de la vida útil de [!DNL Data Workbench]”
+title: '[!DNL Data Workbench] fin de vida útil'
 description: Este documento recoge las preguntas frecuentes sobre el final de la vida útil de  [!DNL Data Workbench].
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -42,3 +42,4 @@ Actualmente, Adobe ofrece las siguientes soluciones Adobe Experience Platform qu
 ## ¿Dónde puedo obtener más información?
 
 Póngase en contacto con el administrador de cuentas de Adobe de su organización para cualquier detalle o pregunta relacionada con este [anuncio de fin de la vida útil](https://express.adobe.com/page/GSu6oKOD88GAj/).
+
