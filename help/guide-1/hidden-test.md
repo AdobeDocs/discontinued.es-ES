@@ -24,15 +24,15 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 ### Vídeo sin formato sin transcripción: debe mostrar la transcripción porque metadata.md se filtran hacia abajo
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
 
 ### Con la transcripción establecida en verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
 
 ### Con la transcripción configurada como falsa: la transcripción de vídeo no debe mostrarse
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=false}
 
 ## Vínculos relativos
 
