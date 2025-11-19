@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
+source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -18,21 +18,77 @@ ht-degree: 2%
 
 Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que funcione correctamente en el procesamiento de la versión 2.
 
-12 de noviembre de 2025
+## Abrir en ficha nueva
+
+`[See What's new](auditor.md) {target="_blank"}`
+
+[Abrir en la misma pestaña](auditor.md)
+
+[Nueva ficha con espacio entre comillas](auditor.md) {target="_blank"}
+
+[Nueva ficha sin espacio con comillas](auditor.md){target="_blank"}
+
+[Nueva ficha con espacio sin comillas](auditor.md) {target=_blank}
+
+[Nueva ficha sin espacio sin comillas](auditor.md){target=_blank}
+
+[Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
+
+[Nuevo vínculo raíz de ficha](/help/guide-1/auditor.md){target="_blank"}
+
+
+<table>
+  <tr>
+    <th>Con comillas</a></th>
+    <th>Sin comillas</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com" target="_blank">Nueva pestaña de Adobe</a></td>
+    <td><a href="https://www.adobe.com" target="_blank">Nueva pestaña de Adobe</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com">Adobe en ficha nueva</a></td>
+    <td><a href="https://www.adobe.com">Adobe en ficha nueva</td>
+  </tr>
+</table>
+
+## Prueba de comentario
+
+18 de noviembre de 2025
+
+Comentario a continuación. Si esto es lo último que ve en este artículo, se debe a la sintaxis del comentario.
+
+1. Haga clic en **[!UICONTROL Crear]**.
+
+<!-- ## Create an exclusion using Advanced Search
+
+You can also create exclusions using [!UICONTROL Advanced Search] on the [Catalog Search](/help/main/c-recommendations/c-products/catalog-search.md#save-as) page ( [!UICONTROL Recommendations] > [!UICONTROL Catalog Search] > [!UICONTROL Advanced Search]). 
+
+![Save as dialog](/help/main/c-recommendations/c-products/assets/save-as.png)
+
+After creating a search using "id > contains," for example, you can then click [!UICONTROL Save As] > [!UICONTROL Exclusion].
+
+>[!IMPORTANT]
+>
+>The [!UICONTROL Advanced Search] functionality is case-insensitive; however, products returned at the time of delivery are based on case-sensitive search. This mismatch might lead to confusion. Ensure that you consider case-sensitivity when you create exclusions based on results using the Advanced Search functionality. For example, if you perform a search for "Holiday," that initial search lists results containing "Holiday" and "holiday." If you then create an exclusion with the intent to exclude products containing "holiday," only products containing "holiday" are excluded. Products containing "Holiday" are not excluded. -->
+
+Esta línea va después del comentario.
 
 ## Prueba de vídeo
 
 ### Vídeo sin formato sin transcripción: debe mostrar la transcripción porque metadata.md se filtran hacia abajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con la transcripción establecida en verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la transcripción configurada como falsa: la transcripción de vídeo no debe mostrarse
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Vínculos relativos
 
