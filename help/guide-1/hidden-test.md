@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
+source-git-commit: c90ddaf54a79c88d90cf7c699d48e647867a1d1a
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 1%
+source-wordcount: '209'
+ht-degree: 0%
 
 ---
 
@@ -20,19 +20,23 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 ## Abrir en ficha nueva
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir en la misma pestaña](auditor.md)
 
-[Nueva ficha con espacio entre comillas](auditor.md){target="_blank"} 
+[Nueva ficha con espacio entre comillas](auditor.md) {target="_blank"}
+
+[Nueva pestaña con anclaje](auditor.md#_blank)
 
 [Nueva ficha sin espacio con comillas](auditor.md){target="_blank"}
 
-[Nueva ficha con espacio sin comillas](auditor.md){target=_blank} 
+[Nueva ficha con espacio sin comillas](auditor.md) {target=_blank}
 
 [Nueva ficha sin espacio sin comillas](auditor.md){target=_blank}
 
 [Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Anclar nueva ficha con vínculo profundo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources#_blank)
 
 [Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
 
@@ -80,15 +84,15 @@ Esta línea va después del comentario.
 
 ### Vídeo sin formato sin transcripción: debe mostrar la transcripción porque metadata.md se filtran hacia abajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con la transcripción establecida en verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la transcripción configurada como falsa: la transcripción de vídeo no debe mostrarse
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Vínculos relativos
 
