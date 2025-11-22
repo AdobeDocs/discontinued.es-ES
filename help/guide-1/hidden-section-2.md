@@ -18,8 +18,8 @@ Prueba oculta 2
 
 ## Sin transcripción
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
 
 ## Transcripción verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
