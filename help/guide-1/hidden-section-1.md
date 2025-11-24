@@ -4,7 +4,7 @@ description: Esta es una prueba oculta 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 7f152c467b1805a0f5b47f4dd29b00ee3130d8ef
+source-git-commit: 9150b1804e1832d0f08320739c9dc4919ffea6a3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 # Prueba de sección oculta 1
 
 
-18 de noviembre de 2025
+24 de noviembre de 2025
 
 1. Vaya aquí
 
@@ -52,8 +52,8 @@ Matt estuvo aquí
 
 ## Sin transcripción
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcripción verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
