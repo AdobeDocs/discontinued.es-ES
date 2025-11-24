@@ -20,17 +20,17 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 ## Abrir en ficha nueva
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [Abrir en la misma pestaña](auditor.md)
 
-[Nueva ficha con espacio entre comillas](auditor.md) {target="_blank"}
+[Nueva ficha con espacio entre comillas](auditor.md){target="_blank"} 
 
-[Nueva pestaña con delimitador](auditor.md){target=&quot;_blank}
+[Nueva pestaña con delimitador](auditor.md){target=_blank}
 
 [Nueva ficha sin espacio con comillas](auditor.md){target="_blank"}
 
-[Nueva ficha con espacio sin comillas](auditor.md) {target=_blank}
+[Nueva ficha con espacio sin comillas](auditor.md){target=_blank} 
 
 [Nueva ficha sin espacio sin comillas](auditor.md){target=_blank}
 
