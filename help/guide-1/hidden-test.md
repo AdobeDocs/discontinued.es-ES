@@ -7,20 +7,20 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
 # Prueba oculta
 
-2 de diciembre
+8 de enero
 
 Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que funcione correctamente en el procesamiento v2.
 
-## Abrir en ficha nueva {#section_92882928}
+## Abrir en una pestaña nueva {#section_92882928}
 
 `[See What's new](auditor.md){target="_blank"} `
 
