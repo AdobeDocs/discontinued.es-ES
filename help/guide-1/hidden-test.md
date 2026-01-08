@@ -7,16 +7,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
+source-git-commit: d246aa050c2e8304709fadaddf93a6b70a661b82
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '214'
 ht-degree: 6%
 
 ---
 
 # Prueba oculta
 
-8 de enero
+8 ene. - Bob
 
 Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que funcione correctamente en el procesamiento v2.
 
