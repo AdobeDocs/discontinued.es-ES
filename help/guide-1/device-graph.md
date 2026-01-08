@@ -2,7 +2,7 @@
 keywords: Device-graph;fin de vida útil
 title: Gráfico del dispositivo
 description: Obtenga información acerca de los planes de fin de vida útil para el gráfico de dispositivos.
-source-git-commit: c7264d94e52fb3efad7d59edd1b73f805a9a00f6
+source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -14,7 +14,6 @@ ht-degree: 0%
 >[!WARNING]
 >
 >El gráfico de dispositivos de Cross-Device Analytics ya no está disponible a partir del **31 de diciembre de 2025**. Cambie cualquier grupo de informes virtuales habilitado para gráficos de dispositivos actuales al [método basado en campos](https://experienceleague.adobe.com/es/docs/analytics/components/cda/field-based-stitching).
->
 
 El análisis entre dispositivos utilizó el gráfico privado para unir datos. Private Graph es un repositorio de ID de dispositivos con hash específicos de su organización. CDA se comunica regularmente con el gráfico del dispositivo para vincular dispositivos.
 
@@ -25,7 +24,6 @@ Si tenía intención de implementar el análisis entre dispositivos mediante el 
 >[!WARNING]
 >
 >Si no se cumplen todos los requisitos previos, es posible que no se pueda habilitar el análisis entre dispositivos o que se obtengan resultados deficientes al vincular datos.
->
 
 * Su organización debe utilizar [Adobe Experience Platform Identity Service Private Graph](https://business.adobe.com/es/products/experience-platform/identity-service.html). Consulte también la [Página principal](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=es) en la guía del usuario del servicio de identidad.
 * La implementación debe utilizar la versión más reciente del servicio Experience Cloud ID (ECID). Consulte la [Página de inicio](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) en la guía del usuario del servicio de ID. Es probable que la mayoría de las implementaciones que usan [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es) en Adobe Experience Platform ya hayan implementado el servicio de ID.
