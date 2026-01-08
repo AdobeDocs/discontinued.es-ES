@@ -1,11 +1,11 @@
 ---
-user-guide-title: Productos descontinuados para  [!DNL Adobe Experience Cloud]
+user-guide-title: Productos discontinuados para Adobe Experience Cloud
 breadcrumb-title: Productos descontinuados
 user-guide-description: Lista de productos interrumpidos para  [!DNL Adobe Experience Cloud]
-source-git-commit: 7a3e461e6d19eefbfd54a7f5f5d51e82fb3739fe
+source-git-commit: da88987d86343e1285387bce1d323ea0a49bd66f
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 73%
+source-wordcount: '49'
+ht-degree: 63%
 
 ---
 
