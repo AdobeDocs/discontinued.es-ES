@@ -6,39 +6,40 @@ hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
+hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f6e3d17e221850a71617abfb9f5e75c0e26b362f
+source-git-commit: 63aefd6f99f007e4cfa78361402f24f0dabae35e
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '220'
 ht-degree: 6%
 
 ---
 
 # Prueba oculta
 
-26 ene.: Bob
+2 de febrero de 2026 - `hold: true` es el. ¡Oh, es así!
 
 Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que funcione correctamente en el procesamiento v2.
 
 ## Abrir en una pestaña nueva {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir en la misma pestaña](auditor.md)
 
-[Nueva ficha con espacio entre comillas](auditor.md){target="_blank"} 
+[Nueva ficha con espacio entre comillas](auditor.md) {target="_blank"}
 
-[Nueva pestaña con delimitador](auditor.md){target=_blank}
+[Nueva pestaña con delimitador](auditor.md){target=&quot;_blank}
 
 [Nueva ficha sin espacio con comillas](auditor.md){target="_blank"}
 
-[Nueva ficha con espacio sin comillas](auditor.md){target=_blank} 
+[Nueva ficha con espacio sin comillas](auditor.md) {target=_blank}
 
 [Nueva ficha sin espacio sin comillas](auditor.md){target=_blank}
 
 [Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Anclar nueva ficha con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Anclar nueva ficha con vínculo profundo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
 
@@ -93,15 +94,15 @@ Esta línea va después del comentario.
 
 ### Vídeo sin formato sin transcripción: debe mostrar la transcripción porque metadata.md se filtran hacia abajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con la transcripción establecida en verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la transcripción configurada como falsa: la transcripción de vídeo no debe mostrarse
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Vínculos relativos
 
@@ -150,4 +151,3 @@ Procesado:
 -->
 
 Bob: elimine el comentario de la diapositiva una vez que pruebe el tema loc.
-
