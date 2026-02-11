@@ -8,9 +8,9 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 32b9cb0dd618b9cb97b22e54e17d05f75f3c51fa
+source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
 workflow-type: tm+mt
-source-wordcount: '219'
+source-wordcount: '223'
 ht-degree: 6%
 
 ---
@@ -19,6 +19,8 @@ ht-degree: 6%
 
 4 de febrero de 2026 - `hold: true` es el.
 Probando clave nueva
+
+11 de febrero: Prueba en espera.
 
 Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que funcione correctamente en el procesamiento v2.
 
