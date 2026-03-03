@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 6%
+source-wordcount: '238'
+ht-degree: 7%
 
 ---
 
 # Prueba oculta
 
-4 de febrero de 2026 - `hold: true` es el.
+4 de marzo de 2026 - `hold: true` es el.
+
 Probando clave nueva
 
 11 de febrero: Prueba en espera.
@@ -34,19 +35,19 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 [Nueva pestaña con delimitador](auditor.md){target=_blank}
 
-[Nueva ficha sin espacio con comillas](auditor.md){target="_blank"}
+[Nueva pestaña sin espacio con comillas](auditor.md){target="_blank"}
 
 [Nueva ficha con espacio sin comillas](auditor.md){target=_blank} 
 
-[Nueva ficha sin espacio sin comillas](auditor.md){target=_blank}
+[Nueva pestaña sin espacio sin comillas](auditor.md){target=_blank}
 
 [Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Anclar nueva ficha con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
 
-[Nuevo vínculo raíz de ficha](/help/guide-1/auditor.md){target="_blank"}
+[Nuevo vínculo raíz de pestaña](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
