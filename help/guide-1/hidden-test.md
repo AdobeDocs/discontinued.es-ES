@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
-ht-degree: 6%
+source-wordcount: '238'
+ht-degree: 7%
 
 ---
 
 # Prueba oculta
 
-4 de febrero de 2026 - `hold: true` es el.
+4 de marzo de 2026 - `hold: true` es el.
+
 Probando clave nueva
 
 11 de febrero: Prueba en espera.
@@ -26,27 +27,27 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 ## Abrir en una pestaña nueva {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir en la misma pestaña](auditor.md)
 
-[Nueva ficha con espacio entre comillas](auditor.md){target="_blank"} 
+[Nueva ficha con espacio entre comillas](auditor.md) {target="_blank"}
 
-[Nueva pestaña con delimitador](auditor.md){target=_blank}
+[Nueva pestaña con delimitador](auditor.md){target=&quot;_blank}
 
-[Nueva ficha sin espacio con comillas](auditor.md){target="_blank"}
+[Nueva pestaña sin espacio con comillas](auditor.md){target="_blank"}
 
-[Nueva ficha con espacio sin comillas](auditor.md){target=_blank} 
+[Nueva ficha con espacio sin comillas](auditor.md) {target=_blank}
 
-[Nueva ficha sin espacio sin comillas](auditor.md){target=_blank}
+[Nueva pestaña sin espacio sin comillas](auditor.md){target=_blank}
 
 [Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Anclar nueva ficha con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
 
-[Nuevo vínculo raíz de ficha](/help/guide-1/auditor.md){target="_blank"}
+[Nuevo vínculo raíz de pestaña](/help/guide-1/auditor.md){target="_blank"}
 
 
 <table>
@@ -97,15 +98,15 @@ Esta línea va después del comentario.
 
 ### Vídeo sin formato sin transcripción: debe mostrar la transcripción porque metadata.md se filtran hacia abajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con la transcripción establecida en verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la transcripción configurada como falsa: la transcripción de vídeo no debe mostrarse
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Vínculos relativos
 
