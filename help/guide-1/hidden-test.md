@@ -43,7 +43,7 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 [Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
 
