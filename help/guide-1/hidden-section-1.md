@@ -3,9 +3,7 @@ title: Prueba de la sección 1 oculta
 description: Esta es una prueba oculta 1
 auto-video-transcripts: false
 hide: true
-hidefromtoc: true
-hold: true
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 5ed891ab8d3b4100cb7bf9d887e2b545ec4626f4
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 3%
@@ -14,7 +12,7 @@ ht-degree: 3%
 
 # Prueba de sección oculta 1
 
-26 de febrero de 2026
+9 de marzo de 2026
 
 1. Vaya aquí
 
@@ -52,8 +50,8 @@ Matt estuvo aquí
 
 ## Sin transcripción
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcripción verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
