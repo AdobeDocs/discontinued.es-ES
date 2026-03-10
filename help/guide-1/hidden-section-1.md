@@ -3,16 +3,16 @@ title: Prueba de la sección 1 oculta
 description: Esta es una prueba oculta 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 5ed891ab8d3b4100cb7bf9d887e2b545ec4626f4
+source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 3%
+source-wordcount: '70'
+ht-degree: 2%
 
 ---
 
 # Prueba de sección oculta 1
 
-9 de marzo de 2026
+10 de marzo de 2026: no `hold: true` para este artículo
 
 1. Vaya aquí
 
