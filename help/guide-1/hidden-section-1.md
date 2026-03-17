@@ -3,16 +3,29 @@ title: Prueba de la sección 1 oculta
 description: Esta es una prueba oculta 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: d53fd34daae5dd4141563732cf0458f0e2f2af91
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '74'
 ht-degree: 2%
 
 ---
 
 # Prueba de sección oculta 1
 
-10 de marzo de 2026, 9:25 - No `hold: true` para este artículo
+16 de marzo de 2026: no `hold: true` para este artículo
+
+## Divisiones de destino
+
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+
+## Más pruebas
 
 1. Vaya aquí
 
@@ -54,8 +67,8 @@ Matt estuvo aquí
 
 ## Sin transcripción
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Transcripción verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
