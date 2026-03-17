@@ -2,8 +2,7 @@
 title: Gestión de tienda para Adobe Commerce
 description: Descubra cuándo llegó el cumplimiento de la tienda para las extensiones de Adobe Commerce al final de su vida útil.
 exl-id: 15a36e9c-3480-436b-8315-5fdedcf5b3dd
-hidefromtco: true
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 41%
