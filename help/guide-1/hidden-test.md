@@ -2,21 +2,20 @@
 title: Prueba oculta
 description: Esta es una prueba oculta
 hide: true
-hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 7f84f2196a1a3a477c05f803eff3cc8eae6b0678
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
-source-wordcount: '235'
+source-wordcount: '234'
 ht-degree: 8%
 
 ---
 
 # Prueba oculta
 
-El 10 de marzo de 2026, del 9:25 al `hold: true` tiene tarifa desactivada.
+17 de marzo de 2026: `hold: true` está desactivado.
 
 Probando clave nueva
 
