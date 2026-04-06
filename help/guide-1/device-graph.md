@@ -2,7 +2,7 @@
 keywords: Device-graph;fin de vida útil
 title: Gráfico del dispositivo
 description: Obtenga información acerca de los planes de fin de vida útil para el gráfico de dispositivos.
-source-git-commit: bb33d25c2f7f7fa7a3d133c9f9b7c89387ff78e4
+source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 4%
@@ -34,3 +34,4 @@ Si tenía intención de implementar el análisis entre dispositivos mediante el 
 * Los ID de Analytics heredados no son compatibles. Solo se vinculan los visitantes con ID de Experience Cloud.
 * Si su organización utiliza un gráfico privado, los nuevos dispositivos tardan hasta 24 horas en vincularse.
 * Los gráficos de dispositivos de terceros no son compatibles.
+
