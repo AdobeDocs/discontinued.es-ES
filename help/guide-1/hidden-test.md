@@ -6,19 +6,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ceebd933f2db110d06a6ef0c1223b6f1aba704d8
+source-git-commit: a87f79a3a93a4323ba907f24181d76aaf30f3889
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 7%
+source-wordcount: '231'
+ht-degree: 8%
 
 ---
 
 # Prueba oculta
 
-24 abr. 2026
-17 de marzo de 2026: `hold: true` está desactivado.
-
-13 de abril de 2026: matt está probando
+Mayo de 15
 
 Probando clave nueva
 
