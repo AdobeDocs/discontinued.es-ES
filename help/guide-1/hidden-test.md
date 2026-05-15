@@ -6,19 +6,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ceebd933f2db110d06a6ef0c1223b6f1aba704d8
+source-git-commit: a87f79a3a93a4323ba907f24181d76aaf30f3889
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 7%
+source-wordcount: '231'
+ht-degree: 8%
 
 ---
 
 # Prueba oculta
 
-24 abr. 2026
-17 de marzo de 2026: `hold: true` está desactivado.
-
-13 de abril de 2026: matt está probando
+Mayo de 15
 
 Probando clave nueva
 
@@ -26,23 +23,23 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 ## Abrir en una pestaña nueva {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Abrir en la misma pestaña](auditor.md)
 
-[Nueva ficha con espacio entre comillas](auditor.md){target="_blank"} 
+[Nueva ficha con espacio entre comillas](auditor.md) {target="_blank"}
 
-[Nueva pestaña con delimitador](auditor.md){target=_blank}
+[Nueva pestaña con delimitador](auditor.md){target=&quot;_blank}
 
 [Nueva pestaña sin espacio con comillas](auditor.md){target="_blank"}
 
-[Nueva ficha con espacio sin comillas](auditor.md){target=_blank} 
+[Nueva ficha con espacio sin comillas](auditor.md) {target=_blank}
 
 [Nueva pestaña sin espacio sin comillas](auditor.md){target=_blank}
 
 [Nueva pestaña con vínculo profundo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
 
@@ -101,15 +98,15 @@ Esta línea va después del comentario.
 
 ### Vídeo sin formato sin transcripción: debe mostrar la transcripción porque metadata.md se filtran hacia abajo
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con la transcripción establecida en verdadera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la transcripción configurada como falsa: la transcripción de vídeo no debe mostrarse
 
->[!VIDEO](https://video.tv.adobe.com/v/3409657?captions=spa&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Vínculos relativos
 
