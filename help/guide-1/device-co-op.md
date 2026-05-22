@@ -1,18 +1,18 @@
 ---
-keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;fin de vida útil
+keywords: cooperación entre dispositivos;cooperación entre dispositivos;fin de vida útil
 title: Preguntas frecuentes sobre el fin de vida útil de [!DNL Device Co-op]
 description: Más información sobre los planes de fin de vida útil para Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '1216'
-ht-degree: 88%
+source-wordcount: '1215'
+ht-degree: 95%
 
 ---
 
 # Preguntas frecuentes sobre el fin de vida útil de [!DNL Device Co-op]
 
-Este documento proporciona respuestas a las preguntas más frecuentes sobre el plan de fin de vida útil (EOL) de [!DNL Adobe Experience Cloud Device Co-op]. Cuando este plan entre en vigor, Adobe proporcionará un aviso avanzado en las [Notas de la versión del Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=es) y la [Actualización del estado del producto prioritaria](https://www.adobe.com/es/subscription/priority-product-update.html).
+Este documento proporciona respuestas a las preguntas más frecuentes sobre el plan de fin de vida útil (EOL) de CX Enterprise Device Co-op. Cuando este plan entre en vigor, Adobe proporcionará un aviso avanzado en las [notas de la versión central de CX Enterprise](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=es) y en la [actualización de producto prioritaria](https://www.adobe.com/es/subscription/priority-product-update.html).
 
 [!DNL Device Co-op] fue un programa que permitió a los participantes colaborar para identificar mejor a los consumidores en distintos puntos táctiles digitales, asegurando al mismo tiempo el máximo nivel de privacidad y transparencia.
 
@@ -22,11 +22,11 @@ A continuación se ofrece una lista de las respuestas a las preguntas más frecu
 
 ## ¿Por qué [!DNL Device Co-op] está en desuso?
 
-Se espera que los próximos cambios en el entorno AdTech hagan que [!DNL Device Co-op] se convierta en una solución obsoleta en los próximos años. [!DNL Device Co-op] se compone principalmente de cookies de terceros y el anuncio de [!DNL Google's] de que bloquearán las cookies de terceros en [!DNL Google Chrome] de aquí a 2022 reducirá la eficacia de [!DNL Device Co-op]. [!DNL Chrome] tiene aproximadamente el 65 % de la cuota de mercado del explorador y otros exploradores principales ya han implementado el bloqueo de cookies de terceros. Una vez que [!DNL Chrome] bloquee las cookies de terceros, la mayoría de las cookies de terceros se bloquearán y [!DNL Device Co-op] se volverá obsoleto.
+Se espera que los próximos cambios en el entorno AdTech resulten en que [!DNL Device Co-op] se convierta en una solución obsoleta en los próximos años. [!DNL Device Co-op] está compuesto principalmente por cookies de terceros y [!DNL Google's] anuncio que se bloquearán las cookies de terceros en [!DNL Google Chrome] para 2022 y disminuirá la eficacia de [!DNL Device Co-op]. [!DNL Chrome] tiene un 65 % de la cuota de mercado del explorador, y otros exploradores principales ya han implementado el bloqueo de cookies de terceros. Una vez que [!DNL Chrome] bloquee las cookies de terceros, la mayoría de las cookies de terceros se bloquearán y [!DNL Device Co-op] se volverá obsoleto.
 
 ## ¿Por qué Adobe termina el registro en [!DNL Device Co-op] ahora?
 
-Los registros finalizan para evitar riesgos de no cumplir las expectativas de los clientes debido a los próximos cambios en el sector relacionados con las cookies de terceros. [!DNL Device Co-op] tarda unos meses en prepararse y otros meses en extraer valor del servicio. Cualquier nueva suscripción en este punto podría provocar que las marcas no experimenten el valor total de [!DNL Device Co-op].
+Los registros finalizan para evitar riesgos de no satisfacer las expectativas de los clientes debido a los próximos cambios en el sector relacionados con las cookies de terceros. [!DNL Device Co-op] tarda unos meses en prepararse y otros pocos meses en extraer valor del servicio. Cualquier nueva suscripción en este punto podría provocar que las marcas no experimenten el valor total de [!DNL Device Co-op].
 
 ## En julio de 2022, Google anunció el retraso del desuso de cookies de terceros en Chrome hasta 2024. ¿Afectará esto a los planes de EOL de [!DNL Device Co-op]?
 
@@ -75,9 +75,9 @@ No hay planes para modificar el [!DNL Audience Manager Data Management Platform]
 
 Actualmente, no hay alternativas disponibles para [!DNL Target], porque [!DNL Target] proporciona una función determinística de vinculación de identidad entre dispositivos conocida como `mbox3rdPartyId`, que funciona de forma similar al ID de cliente de Adobe. Esta capacidad permite a los clientes de [!DNL Target] combinar perfiles y participación en actividades entre pruebas de [!DNL Target] y personalización en canales entrantes.
 
-### Adobe Advertising Cloud
+### Adobe Advertising
 
-Los clientes de [!DNL Advertising Cloud] ya no podrán emplear [!DNL Device Co-op] para la medición y segmentación de audiencias entre dispositivos. Con [!DNL Advertising Cloud], aún podrá aprovechar la asociación de Adobe [!DNL Device Graph] con [!DNL LiveRamp] para continuar desempeñando estas funciones en la medida de la capacidad y escala de [!DNL LiveRamp's]. Debe permitir que las campañas que están utilizando [!DNL Device Co-op] finalicen y cambiar al proveedor de gráficos de dispositivos [!DNL LiveRamp], o dejar de aprovechar la segmentación basada en personas.
+Los clientes de [!DNL Adobe Advertising] ya no podrán emplear [!DNL Device Co-op] para la medición y segmentación de audiencias entre dispositivos. Con [!DNL Advertising], aún podrá aprovechar la asociación de Adobe [!DNL Device Graph] con [!DNL LiveRamp] para continuar desempeñando estas funciones en la medida de la capacidad y escala de [!DNL LiveRamp's]. Debe permitir que las campañas que están utilizando [!DNL Device Co-op] finalicen y cambiar al proveedor de gráficos de dispositivos [!DNL LiveRamp], o dejar de aprovechar la segmentación basada en personas.
 
 ## ¿Qué funcionalidades e implementaciones existentes pueden ayudarme a prepararme para un futuro sin cookies?
 
@@ -88,7 +88,7 @@ La implementación del servicio de ID de visitante existente potencia el [CDA](h
 
 ## ¿Podré mantener mis datos de [!DNL Device Co-op]?
 
-Para los usuarios de [!DNL Audience Manager] y [!DNL Advertising Cloud], los datos de [!DNL Device Co-op] no estarán disponibles para transferirlos a gráficos de terceros. [!DNL Device Co-op] Los datos solo se migrarán para [!DNL Analytics Ultimate] usuarios que usen CDA con [!DNL Device Co-op] cambiando a Vinculación basada en el campo. Los datos de todas las demás soluciones no se migrarán.
+Para usuarios de [!DNL Audience Manager] y [!DNL Advertising], los datos de [!DNL Device Co-op] no estarán disponibles para su transferencia a gráficos de terceros. Los datos de [!DNL Device Co-op] solo se migrarán para los usuarios de [!DNL Analytics Ultimate] que utilizan CDA con [!DNL Device Co-op] y cambien a Vinculación basada en campos. Los datos de todas las demás soluciones no se migrarán.
 
 ## ¿Es obligatorio adoptar otras características?
 

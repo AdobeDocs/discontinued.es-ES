@@ -2,9 +2,9 @@
 keywords: Device-graph;fin de vida útil
 title: Gráfico del dispositivo
 description: Obtenga información acerca de los planes de fin de vida útil para el gráfico de dispositivos.
-source-git-commit: 972d090153630545e18ca192f64dfb198044d8ee
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '331'
 ht-degree: 4%
 
 ---
@@ -26,12 +26,12 @@ Si tenía intención de implementar el análisis entre dispositivos mediante el 
 >Si no se cumplen todos los requisitos previos, es posible que no se pueda habilitar el análisis entre dispositivos o que se obtengan resultados deficientes al vincular datos.
 
 * Su organización debe utilizar [Adobe Experience Platform Identity Service Private Graph](https://business.adobe.com/es/products/experience-platform/identity-service.html). Consulte también la [Página principal](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=es) en la guía del usuario del servicio de identidad.
-* La implementación debe utilizar la versión más reciente del servicio Experience Cloud ID (ECID). Consulte la [Página de inicio](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) en la guía del usuario del servicio de ID. Es probable que la mayoría de las implementaciones que usan [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es) en Adobe Experience Platform ya hayan implementado el servicio de ID.
+* La implementación debe utilizar la versión más reciente del servicio de ID (ECID). Consulte la [Página de inicio](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=es) en la guía del usuario del servicio de ID. Es probable que la mayoría de las implementaciones que usan [Tags](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=es) en Adobe Experience Platform ya hayan implementado el servicio de ID.
 * Su implementación debe llamar a la función `setCustomerIDs` (o SDK equivalente) cada vez que se pueda identificar a un individuo, como cuando un usuario inicia sesión o abre un correo electrónico. Este requisito se aplica a todas las plataformas, incluidas las aplicaciones móviles, si se utilizan. Consulte [`setCustomerIDs`](https://experienceleague.adobe.com/docs/id-service/using/id-service-api/methods/setcustomerids.html?lang=es) en la guía de usuario del servicio de ID.
 
 ## Limitaciones específicas del gráfico del dispositivo
 
-* No se admiten los ID de Analytics heredados. Solo se vinculan los visitantes con Experience Cloud ID.
+* No se admiten los ID de Analytics heredados. Solo se vinculan los visitantes con ECID.
 * Si su organización utiliza un gráfico privado, los nuevos dispositivos tardan hasta 24 horas en vincularse.
 * Los gráficos de dispositivos de terceros no son compatibles.
 

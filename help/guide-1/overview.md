@@ -1,15 +1,15 @@
 ---
-title: Descripción general de productos de  [!DNL Adobe Experience Cloud]  descontinuados
-description: Descripción general de los productos descontinuados, retirados o al final de su vida útil para  [!DNL Adobe Experience Cloud]  y  [!DNL Adobe Experience Platform]
+title: Descripción general de los productos CX Enterprise discontinuados
+description: Descripción general de los productos descontinuados, retirados o que han llegado al final de su vida útil para CX Enterprise
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 80%
 
 ---
 
-# Descripción general de los productos de Adobe Experience Cloud descontinuados
+# Descripción general de los productos Adobe CX Enterprise discontinuados
 
 En ocasiones, Adobe interrumpe la venta, el desarrollo o el soporte de un producto o tecnología como resultado de las cambiantes condiciones del mercado y del impacto para los clientes.
 
@@ -23,6 +23,7 @@ En ocasiones, Adobe interrumpe la venta, el desarrollo o el soporte de un produc
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
+* [[!DNL Media SDK] (1.x y 2.x)](media-sdk.md)
 * [[!DNL Mobile Services]](mobile-services.md)
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
@@ -31,9 +32,6 @@ En ocasiones, Adobe interrumpe la venta, el desarrollo o el soporte de un produc
 
 <!--
 ## Notifications of upcoming products to be discontinued
-
-* [!DNL Data Workbench] end-of-life date is **December 31, 2023**. [Link]
-
 -->
 
 ## Lista de productos con nueva marca
@@ -45,6 +43,7 @@ En ocasiones, Adobe interrumpe la venta, el desarrollo o el soporte de un produc
 * *[!DNL XML Documentation for Adobe Experience Manager]* ahora es *[!DNL Adobe Experience Manager Guides]*.
 * *[!DNL Captivate Prime]* ahora es *[!DNL Adobe Learning Manager]*.
 * *[!DNL Bizible]* ahora es *[!DNL Marketo Measure]*.
+* *[!DNL Primetime]* ahora es *[!DNL Adobe Pass]*.
 
 ## Productos descatalogados adicionales {#additional-products}
 
