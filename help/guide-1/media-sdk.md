@@ -122,6 +122,6 @@ Póngase en contacto con el equipo de su cuenta de Adobe o con el Servicio de at
 
 >[!MORELIKETHIS]
 >
->* [Descripción general de la implementación de medios de streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html)
->* [Medios de streaming para Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html)
->* [Configuración de Media SDK 3.x — JavaScript](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html)
+>* [Descripción general de la implementación de medios de streaming](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/overview.html?lang=es)
+>* [Medios de streaming para Edge Network](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge.html?lang=es)
+>* [Configuración de Media SDK 3.x — JavaScript](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/web-implementation.html?lang=es)
