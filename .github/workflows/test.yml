@@ -1,0 +1,11 @@
+name: Sync test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo test message
+        run: echo "sync-files test - hello from Adobe-Enterprise-Docs/workflows"
