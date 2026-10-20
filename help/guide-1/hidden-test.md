@@ -41,7 +41,7 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
 
 [Anclar nueva pestaña con vínculo profundo](https://experienceleague.adobe.com/es/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[Nueva pestaña con vínculo externo](https://www.adobe.com){target="_blank"}
+[Nueva pestaña con vínculo externo](https://www.adobe.com/es){target="_blank"}
 
 [Nuevo vínculo raíz de pestaña](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ Esta es una prueba oculta. Estoy agregando este(a) `[` para asegurarme de que fu
     <th>Sin comillas</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Nueva pestaña de Adobe</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Nueva pestaña de Adobe</td>
+    <td><a href="https://www.adobe.com/es" target="_blank">Nueva pestaña de Adobe</a></td>
+    <td><a href="https://www.adobe.com/es" target="_blank">Nueva pestaña de Adobe</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe en ficha nueva</a></td>
-    <td><a href="https://www.adobe.com">Adobe en ficha nueva</td>
+    <td><a href="https://www.adobe.com/es">Adobe en ficha nueva</a></td>
+    <td><a href="https://www.adobe.com/es">Adobe en ficha nueva</td>
   </tr>
 </table>
 
